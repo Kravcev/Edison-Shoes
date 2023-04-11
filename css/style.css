@@ -3,12 +3,12 @@
     height:40px;
 }
 
-.page-header__icon-user-nav {
+.user-nav__icon {
     width:18px;
     height:18px;
 }
 
-.page-header__link-site-nav--activ {
+.site-nav__link--activ {
     border-bottom: 2px solid #4D66EC;
     color:#4D66EC;
 }
@@ -17,6 +17,10 @@ a {
     text-decoration: none;
 }
 
-.page-header__link-site-nav--benefits {
+.site-nav__link--benefits {
     color:#FB0F39;
+}
+
+.page-header__picture {
+    background-image: url(/img/pic.png);
 }
