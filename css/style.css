@@ -2,3 +2,21 @@
     width:105px;
     height:40px;
 }
+
+.page-header__icon-user-nav {
+    width:18px;
+    height:18px;
+}
+
+.page-header__link-site-nav--activ {
+    border-bottom: 2px solid #4D66EC;
+    color:#4D66EC;
+}
+
+a {
+    text-decoration: none;
+}
+
+.page-header__link-site-nav--benefits {
+    color:#FB0F39;
+}
