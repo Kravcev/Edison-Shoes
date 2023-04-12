@@ -21,6 +21,6 @@ a {
     color:#FB0F39;
 }
 
-.page-header__picture {
-    background-image: url(/img/pic.png);
+.page__page-header {
+    background-color: #8192f5;
 }
